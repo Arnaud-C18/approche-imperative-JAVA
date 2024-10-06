@@ -29,6 +29,7 @@ public class DeclarationApp {
 
         char caractere = 'a';
         // Caractere simple, a ecrire avec des guillemets simples
+        // Peut etre rempli avec un code caractere
 
         String chaineCaractere = "abcd";
         // Chaine de caracteres, a ecrire avec des guillemets doubles
